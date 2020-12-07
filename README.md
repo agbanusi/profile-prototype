@@ -16,9 +16,9 @@ npm run dev
 ```
 
 The page will look like this
-![profile page](https://drive.google.com/file/d/1L76vFCb37uUlGZSDt1-yKfXlP3ntY9sG/view?usp=sharing)
+![profile](https://drive.google.com/uc?export=view&id=1L76vFCb37uUlGZSDt1-yKfXlP3ntY9sG)
 
 The summary looks like this
-![summary page](https://drive.google.com/file/d/1mK3Ae_eMg5dVsAIsbTWvZH7_259GZL42/view?usp=sharing)
+![summary](https://drive.google.com/file/d/1mK3Ae_eMg5dVsAIsbTWvZH7_259GZL42/view?usp=sharing)
 
 If there are more fields, I could expand the table or if the viewport isn't enough to support the new features, I would remove a few and replace with the most important ones but with a feature that when you click on an order or table, a popup will appear showing all the details of that order.
