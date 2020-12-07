@@ -16,7 +16,7 @@ npm run dev
 ```
 
 The page will look like this
-![profile](https://drive.google.com/uc?export=view&id=1L76vFCb37uUlGZSDt1-yKfXlP3ntY9sG)
+<img src="https://drive.google.com/uc?export=view&id=1L76vFCb37uUlGZSDt1-yKfXlP3ntY9sG" />
 
 The summary looks like this
 ![summary](https://drive.google.com/file/d/1mK3Ae_eMg5dVsAIsbTWvZH7_259GZL42/view?usp=sharing)
